@@ -50,4 +50,4 @@ BRAND is a React JS + Tailwind CSS Landing page to improve my Tailwind styling s
 
 PICTURE: 
 
-![Employee data](/HomeScreenShot?raw=true "Employee Data title")
+![Employee data](/ScreenShot.png?raw=true "Employee Data title")
