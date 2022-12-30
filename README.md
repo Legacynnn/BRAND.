@@ -1,3 +1,15 @@
+# BRAND.
+
+BRAND is a React JS + Tailwind CSS Landing page to improve my Tailwind styling skills
+
+PICTURE: 
+
+![Employee data](/ScreenShot.png?raw=true "Employee Data title")
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,10 +56,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# BRAND.
 
-BRAND is a React JS + Tailwind CSS Landing page to improve my Tailwind styling skills
-
-PICTURE: 
-
-![Employee data](/ScreenShot.png?raw=true "Employee Data title")
